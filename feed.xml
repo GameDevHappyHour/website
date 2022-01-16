@@ -1,89 +1,172 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>Game Dev Happy Hour</title><subtitle>Hong Kongs Primary Event for Game Developers</subtitle><updated>2022-01-16T03:04:17-08:00</updated><id>https://gamedevhappyhour.com/</id><generator uri="https://sparanoid.com/lab/amsf/" version="2.0.22">Almace Scaffolding</generator><link rel="alternate" type="text/html" hreflang="en" href="https://gamedevhappyhour.com/" /><link rel="self" type="application/atom+xml" href="https://gamedevhappyhour.com/feed.xml" /><author><name>Keiran Lovett</name><uri>https://gamedevhappyhour.com/</uri><email>kvclovett@gmail.com</email></author><entry><title></title><id>https://gamedevhappyhour.com/2021-09-10-october.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/2021-09-10-october.html" /><published>2022-01-16T03:04:17-08:00</published><updated>2022-01-16T03:03:24-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>Game Dev Happy Hour</title><subtitle>Hong Kongs Primary Event for Game Developers</subtitle><updated>2022-01-16T03:17:32-08:00</updated><id>https://gamedevhappyhour.com/</id><generator uri="https://sparanoid.com/lab/amsf/" version="2.0.22">Almace Scaffolding</generator><link rel="alternate" type="text/html" hreflang="en" href="https://gamedevhappyhour.com/" /><link rel="self" type="application/atom+xml" href="https://gamedevhappyhour.com/feed.xml" /><author><name>Keiran Lovett</name><uri>https://gamedevhappyhour.com/</uri><email>kvclovett@gmail.com</email></author><entry><title></title><id>https://gamedevhappyhour.com/2021-10-09-october.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/2021-10-09-october.html" /><published>2022-01-16T03:17:32-08:00</published><updated>2022-01-16T03:16:43-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
           
             &lt;p&gt;As an experimental project, Forgetter transforms a virtual museum experience into an emotional narrative-driven game. While digitising an exhibition is nothing new, integrating an interactive narrative comes with unconventional design considerations such as, the use of authored artworks as game objects and its effects on design. Join us as Allison discusses Forgetter’s design journey throughout development.&lt;/p&gt;
 
 &lt;div class=&quot;video&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/myL_-d_CJlk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
 &lt;/iframe&gt;&lt;/div&gt;
 
-&lt;p&gt;Timestamps
-0:00 - Presentation
-20:34 - Q&amp;amp;A&lt;/p&gt;
+&lt;p&gt;##Timestamps&lt;/p&gt;
+
+&lt;p&gt;0:00 - Presentation&lt;/p&gt;
+
+&lt;p&gt;20:34 - Q&amp;amp;A&lt;/p&gt;
 
           
           
         
       
-        </content></entry><entry><title></title><id>https://gamedevhappyhour.com/2020-30-11-november.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/2020-30-11-november.html" /><published>2022-01-16T03:04:17-08:00</published><updated>2022-01-16T03:03:24-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
-          
-            &lt;p&gt;Within the vast stories of the Assassin’s Creed franchise, there’s no shortage of unique and interesting settings. Learn the aspects of a well-designed level and the techniques to create variety in your locations and environments from a lead level designer at Ubisoft Singapore. Join us as Rika shares her experience on building the worlds of Assassin’s Creed&lt;/p&gt;
-
-&lt;div class=&quot;video&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/CSHN5ULaIB4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
-&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Timestamps
-0:00 - Presentation
-36:25 - Q&amp;amp;A&lt;/p&gt;
-
-          
-          
-        
-      
-        </content></entry><entry><title></title><id>https://gamedevhappyhour.com/2020-04-12-december.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/2020-04-12-december.html" /><published>2022-01-16T03:04:17-08:00</published><updated>2022-01-16T03:03:24-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+        </content></entry><entry><title></title><id>https://gamedevhappyhour.com/2020-12-04-december.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/2020-12-04-december.html" /><published>2022-01-16T03:17:32-08:00</published><updated>2022-01-16T03:16:43-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
           
             &lt;p&gt;There’s a first for everything! Yet sometimes the first step can be the hardest one to make. You study the books, learn the craft, but how do you get from there to developing your first game? Join us as Jeremy reflects on the on-going development of Games Hamoney’s first commercial project, from the crowdfunding campaign to first-time lessons learned.&lt;/p&gt;
 
 &lt;div class=&quot;video&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/6QnDhpLuXEw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
 &lt;/iframe&gt;&lt;/div&gt;
 
-&lt;p&gt;Timestamps
-0:00 - Presentation
-23:23 - Q&amp;amp;A&lt;/p&gt;
+&lt;h2 id=&quot;timestamps&quot;&gt;Timestamps&lt;/h2&gt;
+
+&lt;p&gt;0:00 - Presentation&lt;/p&gt;
+
+&lt;p&gt;23:23 - Q&amp;amp;A&lt;/p&gt;
 
           
           
         
       
-        </content></entry><entry><title>The Sound of Games</title><id>https://gamedevhappyhour.com/august.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/august.html" /><published>2021-09-08T00:00:00-07:00</published><updated>2022-01-16T03:03:24-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+        </content></entry><entry><title></title><id>https://gamedevhappyhour.com/2020-11-03-november.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/2020-11-03-november.html" /><published>2022-01-16T03:17:32-08:00</published><updated>2022-01-16T03:16:43-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+          
+            &lt;p&gt;Within the vast stories of the Assassin’s Creed franchise, there’s no shortage of unique and interesting settings. Learn the aspects of a well-designed level and the techniques to create variety in your locations and environments from a lead level designer at Ubisoft Singapore. Join us as Rika shares her experience on building the worlds of Assassin’s Creed&lt;/p&gt;
+
+&lt;div class=&quot;video&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/CSHN5ULaIB4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
+&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;timestamps&quot;&gt;Timestamps&lt;/h2&gt;
+
+&lt;p&gt;0:00 - Presentation&lt;/p&gt;
+
+&lt;p&gt;36:25 - Q&amp;amp;A&lt;/p&gt;
+
+          
+          
+        
+      
+        </content></entry><entry><title></title><id>https://gamedevhappyhour.com/2020-04-05-april.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/2020-04-05-april.html" /><published>2022-01-16T03:17:32-08:00</published><updated>2022-01-16T03:16:43-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+          
+            &lt;p&gt;To develop a type of game that you’ve always loved, it takes more than just passion. Whether it’s considering market expectations (or your own!) to community management, there are a few more steps in the process than you might think. Join us as Lily Sun (Minidragon) reviews her development journey with Pixel Petz, and shares how you can also make a game you love.&lt;/p&gt;
+
+&lt;div class=&quot;video&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/UEn7gJXC-V4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
+&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;timestamps&quot;&gt;Timestamps&lt;/h2&gt;
+
+&lt;p&gt;0:00 - Presentation&lt;/p&gt;
+
+&lt;p&gt;7:02 - Q&amp;amp;A&lt;/p&gt;
+
+          
+          
+        
+      
+        </content></entry><entry><title></title><id>https://gamedevhappyhour.com/2020-03-14-march.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/2020-03-14-march.html" /><published>2022-01-16T03:17:32-08:00</published><updated>2022-01-16T03:16:43-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+          
+            &lt;p&gt;With the rigid design conventions of rhythm games, it has become difficult to innovate on mobile platforms. Instead many modern rhythm games will heavily feature popular music or idol characters, but RAVON is one team’s endeavor to try and innovate on design. Join us as Matthew Mok (Team Synthnova) reflects on RAVON’s unique design and its indie approach to the rhythm game genre.&lt;/p&gt;
+
+&lt;div class=&quot;video&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/rayzB-O4j9g&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
+&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;timestamps&quot;&gt;Timestamps&lt;/h2&gt;
+
+&lt;p&gt;0:00 - Presentation&lt;/p&gt;
+
+&lt;p&gt;26:22 - Q&amp;amp;A&lt;/p&gt;
+
+          
+          
+        
+      
+        </content></entry><entry><title>No Money, No Problem!</title><id>https://gamedevhappyhour.com/september.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/september.html" /><published>2021-09-04T00:00:00-07:00</published><updated>2022-01-16T03:16:43-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+          
+            &lt;p&gt;It’s all about building your first [indie mobile] game! From concept and design to development and release, we’ll be learning best beginner practices for every step of the way, including topics like publishers and user acquisition. Join us as Jeremy guides us through game development on an indie budget.&lt;/p&gt;
+
+&lt;div class=&quot;video&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/qEIdOyp6SxE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
+&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;##Timestamps&lt;/p&gt;
+
+&lt;p&gt;0:00 - Presentation&lt;/p&gt;
+
+&lt;p&gt;29:16 - Q&amp;amp;A&lt;/p&gt;
+
+          
+          
+        
+      
+        </content><summary>It’s all about building your first [indie mobile] game! From concept and design to development and release, we’ll be learning best beginner practices for every step of the way, including topics like publishers and user acquisition. Join us as Jeremy guides us through game development on an indie budget.</summary></entry><entry><title>The Sound of Games</title><id>https://gamedevhappyhour.com/august.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/august.html" /><published>2021-08-09T00:00:00-07:00</published><updated>2022-01-16T03:16:43-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
           
             &lt;p&gt;We’re diving deep into the world of game audio! Whether it’s foley work, sound effects, music composition, audio production, and more, join Elmer and Darshan as they answer your very own questions on the audio side of game development.&lt;/p&gt;
 
 &lt;div class=&quot;video&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/4Kyi9ljpxBo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
 &lt;/iframe&gt;&lt;/div&gt;
 
-&lt;p&gt;Timestamps
-0:00​​ - Introductions
-2:33 - When is the best time, in a development cycle, to consider game audio?
-7:18 - What’s a recent in your work that you’re proud of?
-13:45 - What are common misconceptions about game audio?
-18:56 - How would you define excellent game audio? Any examples?
-25:11 - What’s it like to be a project lead manager for a game audio team?
-31:08 - How does one start learning or practicing sound design?
-41:50 - Any advice for indie devs who have a limited budget for game audio?&lt;/p&gt;
+&lt;p&gt;##Timestamps
+0:00​​ - Introductions&lt;/p&gt;
+
+&lt;p&gt;2:33 - When is the best time, in a development cycle, to consider game audio?&lt;/p&gt;
+
+&lt;p&gt;7:18 - What’s a recent in your work that you’re proud of?&lt;/p&gt;
+
+&lt;p&gt;13:45 - What are common misconceptions about game audio?&lt;/p&gt;
+
+&lt;p&gt;18:56 - How would you define excellent game audio? Any examples?&lt;/p&gt;
+
+&lt;p&gt;25:11 - What’s it like to be a project lead manager for a game audio team?&lt;/p&gt;
+
+&lt;p&gt;31:08 - How does one start learning or practicing sound design?&lt;/p&gt;
+
+&lt;p&gt;41:50 - Any advice for indie devs who have a limited budget for game audio?&lt;/p&gt;
 
           
           
         
       
-        </content><summary>We’re diving deep into the world of game audio! Whether it’s foley work, sound effects, music composition, audio production, and more, join Elmer and Darshan as they answer your very own questions on the audio side of game development.</summary></entry><entry><title>Elevator Pitch Basics</title><id>https://gamedevhappyhour.com/may.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/may.html" /><published>2021-07-05T00:00:00-07:00</published><updated>2022-01-16T03:03:24-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+        </content><summary>We’re diving deep into the world of game audio! Whether it’s foley work, sound effects, music composition, audio production, and more, join Elmer and Darshan as they answer your very own questions on the audio side of game development.</summary></entry><entry><title>Elevator Pitch Basics</title><id>https://gamedevhappyhour.com/may.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/may.html" /><published>2021-05-07T00:00:00-07:00</published><updated>2022-01-16T03:16:43-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
           
             &lt;p&gt;8 seconds. An incredibly short amount of time after meeting a complete stranger, but may be the difference between securing a meeting or being brushed off. Join us as Johnson identifies the basics of great elevator pitch and how to prepare one yourself.&lt;/p&gt;
 
 &lt;div class=&quot;video&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/8baqo1W4wN0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
 &lt;/iframe&gt;&lt;/div&gt;
 
-&lt;p&gt;Timestamps
-0:00​​ - Presentation
-23:54​ - Q&amp;amp;A&lt;/p&gt;
+&lt;h2 id=&quot;timestamps&quot;&gt;Timestamps&lt;/h2&gt;
+
+&lt;p&gt;0:00​​ - Presentation&lt;/p&gt;
+
+&lt;p&gt;23:54​ - Q&amp;amp;A&lt;/p&gt;
 
           
           
         
       
-        </content><summary>8 seconds. An incredibly short amount of time after meeting a complete stranger, but may be the difference between securing a meeting or being brushed off. Join us as Johnson identifies the basics of great elevator pitch and how to prepare one yourself.</summary></entry><entry><title>Global Game Jam 2021 Showcase</title><id>https://gamedevhappyhour.com/ggj.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/ggj.html" /><published>2021-07-01T00:00:00-07:00</published><updated>2022-01-16T03:03:24-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+        </content><summary>8 seconds. An incredibly short amount of time after meeting a complete stranger, but may be the difference between securing a meeting or being brushed off. Join us as Johnson identifies the basics of great elevator pitch and how to prepare one yourself.</summary></entry><entry><title>Test-Driven Development</title><id>https://gamedevhappyhour.com/march.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/march.html" /><published>2021-03-06T00:00:00-08:00</published><updated>2022-01-16T03:16:43-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+          
+            &lt;p&gt;Throughout any project, it’s exciting to learn new techniques and principles. While potentially great, it can lead to frustration and often disrupt the workflow. Join us as Christian explains the practice of test-driven development (TDD) and how to estimate your learn time.&lt;/p&gt;
+
+&lt;div class=&quot;video&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/ty6KQNHtfyI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
+&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;timestamps&quot;&gt;Timestamps&lt;/h2&gt;
+
+&lt;p&gt;0:00​ - Presentation&lt;/p&gt;
+
+&lt;p&gt;29:48 - Q&amp;amp;A&lt;/p&gt;
+
+          
+          
+        
+      
+        </content><summary>Throughout any project, it’s exciting to learn new techniques and principles. While potentially great, it can lead to frustration and often disrupt the workflow. Join us as Christian explains the practice of test-driven development (TDD) and how to estimate your learn time.</summary></entry><entry><title>Global Game Jam 2021 Showcase</title><id>https://gamedevhappyhour.com/ggj.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/ggj.html" /><published>2021-01-07T00:00:00-08:00</published><updated>2022-01-16T03:16:43-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
           
             &lt;p&gt;Thank you to all the jammers for all the great entries for GGJHK 2021! We’ve put together a compilation of nearly all of the projects (1 project wasn’t included as we couldn’t find any video footage, screenshots, or build on the GGJ HK site page.)&lt;/p&gt;
 
-&lt;p&gt;Learn more about all of these games: https://www.youtube.com/redirect?event=video_description&amp;amp;redir_token=QUFFLUhqbGZBcmhqajlja2dXQVdzM1g4R1NvR2p4enA4UXxBQ3Jtc0trcTVERHhsQ2VDeDc2NUNqa1dJT1d5dzZzZnJ4dlRPRjg1cG9kem1wUHJjalZrNGZPSmF2UFZsbENvY1pWWkdiYUp3ckN0TUVmX2pTajNsckVtajlMVGVUVGRWeEVnVWxmQ2lRSmFLZEZueWx1R0RRbw&amp;amp;q=https%3A%2F%2Fglobalgamejam.org%2F2021%2Fjam-sites%2Fhong-kong%2Fgames&lt;/p&gt;
+&lt;p&gt;Learn more about all of these games:&lt;/p&gt;
 
 &lt;div class=&quot;video&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/LJIQw4VgO0M&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
 &lt;/iframe&gt;&lt;/div&gt;
@@ -92,37 +175,7 @@
           
         
       
-        </content><summary>Thank you to all the jammers for all the great entries for GGJHK 2021! We’ve put together a compilation of nearly all of the projects (1 project wasn’t included as we couldn’t find any video footage, screenshots, or build on the GGJ HK site page.)</summary></entry><entry><title>No Money, No Problem!</title><id>https://gamedevhappyhour.com/september.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/september.html" /><published>2021-04-09T00:00:00-07:00</published><updated>2022-01-16T03:03:24-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
-          
-            &lt;p&gt;It’s all about building your first [indie mobile] game! From concept and design to development and release, we’ll be learning best beginner practices for every step of the way, including topics like publishers and user acquisition. Join us as Jeremy guides us through game development on an indie budget.&lt;/p&gt;
-
-&lt;div class=&quot;video&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/qEIdOyp6SxE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
-&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Timestamps
-0:00 - Presentation
-29:16 - Q&amp;amp;A&lt;/p&gt;
-
-          
-          
-        
-      
-        </content><summary>It’s all about building your first [indie mobile] game! From concept and design to development and release, we’ll be learning best beginner practices for every step of the way, including topics like publishers and user acquisition. Join us as Jeremy guides us through game development on an indie budget.</summary></entry><entry><title>Test-Driven Development</title><id>https://gamedevhappyhour.com/march.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/march.html" /><published>2021-03-06T00:00:00-08:00</published><updated>2022-01-16T03:03:24-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
-          
-            &lt;p&gt;Throughout any project, it’s exciting to learn new techniques and principles. While potentially great, it can lead to frustration and often disrupt the workflow. Join us as Christian explains the practice of test-driven development (TDD) and how to estimate your learn time.&lt;/p&gt;
-
-&lt;div class=&quot;video&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/ty6KQNHtfyI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
-&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;Timestamps
-0:00​ - Presentation
-29:48 - Q&amp;amp;A&lt;/p&gt;
-
-          
-          
-        
-      
-        </content><summary>Throughout any project, it’s exciting to learn new techniques and principles. While potentially great, it can lead to frustration and often disrupt the workflow. Join us as Christian explains the practice of test-driven development (TDD) and how to estimate your learn time.</summary></entry><entry><title>Welcome</title><id>https://gamedevhappyhour.com/welcome.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/welcome.html" /><published>2021-01-01T00:00:00-08:00</published><updated>2022-01-16T03:03:24-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+        </content><summary>Thank you to all the jammers for all the great entries for GGJHK 2021! We’ve put together a compilation of nearly all of the projects (1 project wasn’t included as we couldn’t find any video footage, screenshots, or build on the GGJ HK site page.)</summary></entry><entry><title>Welcome</title><id>https://gamedevhappyhour.com/welcome.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/welcome.html" /><published>2021-01-01T00:00:00-08:00</published><updated>2022-01-16T03:16:43-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
           
             &lt;p&gt;Welcome to Game Dev Happy Hour! We are a community of game developers here to foster and encourage game development in Hong Kong.&lt;/p&gt;
 
@@ -134,7 +187,7 @@
           
         
       
-        </content><summary>Welcome to Game Dev Happy Hour! We are a community of game developers here to foster and encourage game development in Hong Kong.</summary></entry><entry><title>Frequent Questions</title><id>https://gamedevhappyhour.com/questions.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/questions.html" /><published>2021-01-01T00:00:00-08:00</published><updated>2022-01-16T03:03:24-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+        </content><summary>Welcome to Game Dev Happy Hour! We are a community of game developers here to foster and encourage game development in Hong Kong.</summary></entry><entry><title>Frequent Questions</title><id>https://gamedevhappyhour.com/questions.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/questions.html" /><published>2021-01-01T00:00:00-08:00</published><updated>2022-01-16T03:16:43-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
           
             &lt;blockquote&gt;
   &lt;p&gt;We’re looking for speakers to talk about game development, could we contact you to come to our event / group / organisation?&lt;/p&gt;
@@ -164,7 +217,7 @@
           
         
       
-        </content><summary>  We’re looking for speakers to talk about game development, could we contact you to come to our event / group / organisation?</summary></entry><entry><title>Press Kit</title><id>https://gamedevhappyhour.com/press-kit.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/press-kit.html" /><published>2021-01-01T00:00:00-08:00</published><updated>2022-01-16T03:03:24-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+        </content><summary>  We’re looking for speakers to talk about game development, could we contact you to come to our event / group / organisation?</summary></entry><entry><title>Press Kit</title><id>https://gamedevhappyhour.com/press-kit.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/press-kit.html" /><published>2021-01-01T00:00:00-08:00</published><updated>2022-01-16T03:16:43-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
           
             &lt;p&gt;Included in our Press Kit are guidelines and best practices for Game Dev Happy Hour branding.&lt;/p&gt;
 
@@ -196,7 +249,7 @@
           
         
       
-        </content><summary>Included in our Press Kit are guidelines and best practices for Game Dev Happy Hour branding.</summary></entry><entry><title>About Us</title><id>https://gamedevhappyhour.com/our-team.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/our-team.html" /><published>2021-01-01T00:00:00-08:00</published><updated>2022-01-16T03:03:24-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+        </content><summary>Included in our Press Kit are guidelines and best practices for Game Dev Happy Hour branding.</summary></entry><entry><title>About Us</title><id>https://gamedevhappyhour.com/our-team.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/our-team.html" /><published>2021-01-01T00:00:00-08:00</published><updated>2022-01-16T03:16:43-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
           
             &lt;h1 id=&quot;the-community-for-hong-kongs-gaming-industry&quot;&gt;The Community For Hong Kong’s Gaming Industry&lt;/h1&gt;
 &lt;p&gt;Welcome to Game Dev Happy Hour! We are a community of game developers here to foster and encourage game development in Hong Kong.&lt;/p&gt;
@@ -244,7 +297,7 @@
           
         
       
-        </content><summary>The Community For Hong Kong’s Gaming IndustryWelcome to Game Dev Happy Hour! We are a community of game developers here to foster and encourage game development in Hong Kong.</summary></entry><entry><title>Monthly+ Events</title><id>https://gamedevhappyhour.com/monthlyplus.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/monthlyplus.html" /><published>2021-01-01T00:00:00-08:00</published><updated>2022-01-16T03:03:24-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+        </content><summary>The Community For Hong Kong’s Gaming IndustryWelcome to Game Dev Happy Hour! We are a community of game developers here to foster and encourage game development in Hong Kong.</summary></entry><entry><title>Monthly+ Events</title><id>https://gamedevhappyhour.com/monthlyplus.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/monthlyplus.html" /><published>2021-01-01T00:00:00-08:00</published><updated>2022-01-16T03:16:43-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
           
             &lt;p&gt;Monthly+ Events act as specialised events at public and private venues where we focus on specific topics. These events range from university and school visits where presenters share their insight to emerging talent, to Demo Days and Game Jams.&lt;/p&gt;
 
@@ -254,7 +307,7 @@
           
         
       
-        </content><summary>Monthly+ Events act as specialised events at public and private venues where we focus on specific topics. These events range from university and school visits where presenters share their insight to emerging talent, to Demo Days and Game Jams.</summary></entry><entry><title>Monthly Events</title><id>https://gamedevhappyhour.com/monthly.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/monthly.html" /><published>2021-01-01T00:00:00-08:00</published><updated>2022-01-16T03:03:24-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+        </content><summary>Monthly+ Events act as specialised events at public and private venues where we focus on specific topics. These events range from university and school visits where presenters share their insight to emerging talent, to Demo Days and Game Jams.</summary></entry><entry><title>Monthly Events</title><id>https://gamedevhappyhour.com/monthly.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/monthly.html" /><published>2021-01-01T00:00:00-08:00</published><updated>2022-01-16T03:16:43-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
           
             &lt;p&gt;Talk shop with fellow local developers and learn something along the way with a short presentation from a member of the community. Always on the first Thursday of every month!&lt;/p&gt;
 
@@ -264,7 +317,75 @@
           
         
       
-        </content><summary>Talk shop with fellow local developers and learn something along the way with a short presentation from a member of the community. Always on the first Thursday of every month!</summary></entry><entry><title>Open Graph</title><id>https://gamedevhappyhour.com/open-graph.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/open-graph.html" /><published>2017-01-06T00:00:00-08:00</published><updated>2022-01-16T03:03:24-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+        </content><summary>Talk shop with fellow local developers and learn something along the way with a short presentation from a member of the community. Always on the first Thursday of every month!</summary></entry><entry><title>Burnout and Ideation</title><id>https://gamedevhappyhour.com/august.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/august.html" /><published>2020-08-08T00:00:00-07:00</published><updated>2022-01-16T03:16:43-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+          
+            &lt;p&gt;Burnout hits hard. Everything just stops and there’s not an ounce of creative motivation left. Pulling yourself out of it may seem impossible, but there are ways to recover. Join us as Sky talks about recovering from burnout and exercising innovation throughout it.&lt;/p&gt;
+
+&lt;div class=&quot;video&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/Dhf2iTFRH-Y&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
+&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;timestamps&quot;&gt;Timestamps&lt;/h2&gt;
+
+&lt;p&gt;0:00 - Presentation&lt;/p&gt;
+
+&lt;p&gt;5:48 - Q&amp;amp;A&lt;/p&gt;
+
+          
+          
+        
+      
+        </content><summary>Burnout hits hard. Everything just stops and there’s not an ounce of creative motivation left. Pulling yourself out of it may seem impossible, but there are ways to recover. Join us as Sky talks about recovering from burnout and exercising innovation throughout it.</summary></entry><entry><title>Practice Is Boring</title><id>https://gamedevhappyhour.com/july.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/july.html" /><published>2020-07-04T00:00:00-07:00</published><updated>2022-01-16T03:16:43-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+          
+            &lt;p&gt;Practice and fun are often considered mutually exclusive, but Rocksmith shows that there is a way to effectively combine both. Join as Cliff explores the game design process behind integrating fun and practice.&lt;/p&gt;
+
+&lt;div class=&quot;video&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/XKmLeLxQIVQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
+&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;timestamps&quot;&gt;Timestamps&lt;/h2&gt;
+
+&lt;p&gt;0:00 - Presentation&lt;/p&gt;
+
+&lt;p&gt;28:19 - Q&amp;amp;A&lt;/p&gt;
+
+          
+          
+        
+      
+        </content><summary>Practice and fun are often considered mutually exclusive, but Rocksmith shows that there is a way to effectively combine both. Join as Cliff explores the game design process behind integrating fun and practice.</summary></entry><entry><title>Game Development as a Hobby</title><id>https://gamedevhappyhour.com/june.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/june.html" /><published>2020-06-05T00:00:00-07:00</published><updated>2022-01-16T03:16:43-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+          
+            &lt;p&gt;Even with a full-time job, there ought to be enough time to be able to make games on the side, right? Join us Thursday as Tom recounts the development of Feria d’Arles and the realities of the side hustle, from the exciting world of spreadsheets to burning out on your own hobby.&lt;/p&gt;
+
+&lt;div class=&quot;video&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/GbKR5YoqnJg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
+&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;timestamps&quot;&gt;Timestamps&lt;/h2&gt;
+
+&lt;p&gt;0:00 - Presentation&lt;/p&gt;
+
+&lt;p&gt;14:41 - Q&amp;amp;A&lt;/p&gt;
+
+          
+          
+        
+      
+        </content><summary>Even with a full-time job, there ought to be enough time to be able to make games on the side, right? Join us Thursday as Tom recounts the development of Feria d’Arles and the realities of the side hustle, from the exciting world of spreadsheets to burning out on your own hobby.</summary></entry><entry><title>Working in China's Games Industry 101</title><id>https://gamedevhappyhour.com/may.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/may.html" /><published>2020-05-24T00:00:00-07:00</published><updated>2022-01-16T03:16:43-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+          
+            &lt;p&gt;One does not simply walk into mainland China expecting to work in the games industry. Whether it’s job openings, labour laws, or social welfare, there is a lot to consider before crossing the border. Join us on Thursday as Amy Ho (Improbable China) walks through her personal experience and shares tips on working in China’s games industry.&lt;/p&gt;
+
+&lt;div class=&quot;video&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/lLyJmIYQbHo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
+&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;timestamps&quot;&gt;Timestamps&lt;/h2&gt;
+
+&lt;p&gt;0:00 - Presentation&lt;/p&gt;
+
+&lt;p&gt;39:36 - Q&amp;amp;A&lt;/p&gt;
+
+          
+          
+        
+      
+        </content><summary>One does not simply walk into mainland China expecting to work in the games industry. Whether it’s job openings, labour laws, or social welfare, there is a lot to consider before crossing the border. Join us on Thursday as Amy Ho (Improbable China) walks through her personal experience and shares tips on working in China’s games industry.</summary></entry><entry><title>Open Graph</title><id>https://gamedevhappyhour.com/open-graph.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/open-graph.html" /><published>2017-01-06T00:00:00-08:00</published><updated>2022-01-16T03:16:43-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
           
             &lt;p&gt;Theme Curtana has full Open Graph and Twitter Cards support.&lt;/p&gt;
 
@@ -287,7 +408,7 @@
           
         
       
-        </content><summary>Theme Curtana has full Open Graph and Twitter Cards support.</summary></entry><entry><title>Markdown Features Test</title><id>https://gamedevhappyhour.com/markdown-features-test.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/markdown-features-test.html" /><published>2014-06-06T00:00:00-07:00</published><updated>2022-01-16T03:03:24-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+        </content><summary>Theme Curtana has full Open Graph and Twitter Cards support.</summary></entry><entry><title>Markdown Features Test</title><id>https://gamedevhappyhour.com/markdown-features-test.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/markdown-features-test.html" /><published>2014-06-06T00:00:00-07:00</published><updated>2022-01-16T03:16:43-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
           
             &lt;h2 id=&quot;indented-code-blocks&quot;&gt;Indented Code Blocks&lt;/h2&gt;
 
@@ -422,7 +543,7 @@ end
           
         
       
-        </content><summary>Indented Code Blocks</summary></entry><entry><title>Markup Example</title><id>https://gamedevhappyhour.com/markup-example.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/markup-example.html" /><published>2014-06-05T00:00:00-07:00</published><updated>2022-01-16T03:03:24-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+        </content><summary>Indented Code Blocks</summary></entry><entry><title>Markup Example</title><id>https://gamedevhappyhour.com/markup-example.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/markup-example.html" /><published>2014-06-05T00:00:00-07:00</published><updated>2022-01-16T03:16:43-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
           
             &lt;p&gt;Lorem lean startup ipsum &lt;strong&gt;product market fit customer development&lt;/strong&gt; acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck. Social bookmarking group buying &lt;a href=&quot;#&quot;&gt;crowded market&lt;/a&gt; pivot onboarding freemium prototype ping pong. Early stage disruptive ecosystem community outreach dynamic location based strategic investor.&lt;/p&gt;
 
