@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>Game Dev Happy Hour</title><subtitle>Hong Kongs Primary Event for Game Developers</subtitle><updated>2022-01-16T02:19:42-08:00</updated><id>https://gamedevhappyhour.com/</id><generator uri="https://sparanoid.com/lab/amsf/" version="2.0.22">Almace Scaffolding</generator><link rel="alternate" type="text/html" hreflang="en" href="https://gamedevhappyhour.com/" /><link rel="self" type="application/atom+xml" href="https://gamedevhappyhour.com/feed.xml" /><author><name>Keiran Lovett</name><uri>https://gamedevhappyhour.com/</uri><email>kvclovett@gmail.com</email></author><entry><title>Welcome</title><id>https://gamedevhappyhour.com/welcome.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/welcome.html" /><published>2021-01-01T00:00:00-08:00</published><updated>2022-01-16T02:18:51-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>Game Dev Happy Hour</title><subtitle>Hong Kongs Primary Event for Game Developers</subtitle><updated>2022-01-16T02:42:31-08:00</updated><id>https://gamedevhappyhour.com/</id><generator uri="https://sparanoid.com/lab/amsf/" version="2.0.22">Almace Scaffolding</generator><link rel="alternate" type="text/html" hreflang="en" href="https://gamedevhappyhour.com/" /><link rel="self" type="application/atom+xml" href="https://gamedevhappyhour.com/feed.xml" /><author><name>Keiran Lovett</name><uri>https://gamedevhappyhour.com/</uri><email>kvclovett@gmail.com</email></author><entry><title>Welcome</title><id>https://gamedevhappyhour.com/welcome.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/welcome.html" /><published>2021-01-01T00:00:00-08:00</published><updated>2022-01-16T02:41:42-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
           
             &lt;p&gt;Welcome to Game Dev Happy Hour! We are a community of game developers here to foster and encourage game development in Hong Kong.&lt;/p&gt;
 
@@ -10,7 +10,7 @@
           
         
       
-        </content><summary>Welcome to Game Dev Happy Hour! We are a community of game developers here to foster and encourage game development in Hong Kong.</summary></entry><entry><title>Frequent Questions</title><id>https://gamedevhappyhour.com/questions.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/questions.html" /><published>2021-01-01T00:00:00-08:00</published><updated>2022-01-16T02:18:51-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+        </content><summary>Welcome to Game Dev Happy Hour! We are a community of game developers here to foster and encourage game development in Hong Kong.</summary></entry><entry><title>Frequent Questions</title><id>https://gamedevhappyhour.com/questions.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/questions.html" /><published>2021-01-01T00:00:00-08:00</published><updated>2022-01-16T02:41:42-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
           
             &lt;blockquote&gt;
   &lt;p&gt;We’re looking for speakers to talk about game development, could we contact you to come to our event / group / organisation?&lt;/p&gt;
@@ -40,17 +40,39 @@
           
         
       
-        </content><summary>  We’re looking for speakers to talk about game development, could we contact you to come to our event / group / organisation?</summary></entry><entry><title>Press Kit</title><id>https://gamedevhappyhour.com/press-kit.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/press-kit.html" /><published>2021-01-01T00:00:00-08:00</published><updated>2022-01-16T02:18:51-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+        </content><summary>  We’re looking for speakers to talk about game development, could we contact you to come to our event / group / organisation?</summary></entry><entry><title>Press Kit</title><id>https://gamedevhappyhour.com/press-kit.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/press-kit.html" /><published>2021-01-01T00:00:00-08:00</published><updated>2022-01-16T02:41:42-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
           
-            &lt;p&gt;https://github.com/GameDevHappyHour/Press-Kit/tree/main/Export&lt;/p&gt;
+            &lt;p&gt;Included in our Press Kit are guidelines and best practices for Game Dev Happy Hour branding.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://github.com/GameDevHappyHour/Press-Kit/raw/main/Export/Raster%20PNG/GameDevHappyHour_Logo_Full_Colour.png&quot; alt=&quot;Coloured&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;You can download the Press assets &lt;a href=&quot;https://github.com/GameDevHappyHour/Press-Kit/tree/main/Export&quot;&gt;here&lt;/a&gt; along with a guideline document.&lt;/p&gt;
+
+&lt;p&gt;Please view &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;GameDevHappyHour_Press_StyleGuide.PDF&lt;/code&gt; before usage.&lt;/p&gt;
+
+&lt;h2 id=&quot;full-coloured&quot;&gt;Full Coloured&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/GameDevHappyHour/Press-Kit/raw/main/Export/Raster%20PNG/GameDevHappyHour_Logo_Full_Colour.png&quot; alt=&quot;Coloured&quot; class=&quot;size-small&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;full-dark--print&quot;&gt;Full Dark / Print&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/GameDevHappyHour/Press-Kit/raw/main/Export/Raster%20PNG/GameDevHappyHour_Logo_Full_Dark.png&quot; alt=&quot;Dark&quot; class=&quot;size-small&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;full-light--print&quot;&gt;Full Light / Print&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/GameDevHappyHour/Press-Kit/raw/main/Export/Raster%20PNG/GameDevHappyHour_Logo_Full_Light.png&quot; alt=&quot;Light&quot; class=&quot;size-small&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;outline&quot;&gt;Outline&lt;/h1&gt;
+
+&lt;h2 id=&quot;outline-coloured&quot;&gt;Outline Coloured&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/GameDevHappyHour/Press-Kit/raw/main/Export/Raster%20PNG/GameDevHappyHour_Logo_Outline_Colour.png&quot; alt=&quot;Coloured&quot; class=&quot;size-small&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;outline-dark--print&quot;&gt;Outline Dark / Print&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/GameDevHappyHour/Press-Kit/raw/main/Export/Raster%20PNG/GameDevHappyHour_Logo_Outline_Dark.png&quot; alt=&quot;Dark&quot; class=&quot;size-small&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;outline-light--print&quot;&gt;Outline Light / Print&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/GameDevHappyHour/Press-Kit/raw/main/Export/Raster%20PNG/GameDevHappyHour_Logo_Outline_Light.png&quot; alt=&quot;Light&quot; class=&quot;size-small&quot; /&gt;&lt;/p&gt;
 
           
           
         
       
-        </content><summary>https://github.com/GameDevHappyHour/Press-Kit/tree/main/Export</summary></entry><entry><title>About Us</title><id>https://gamedevhappyhour.com/our-team.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/our-team.html" /><published>2021-01-01T00:00:00-08:00</published><updated>2022-01-16T02:18:51-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+        </content><summary>Included in our Press Kit are guidelines and best practices for Game Dev Happy Hour branding.</summary></entry><entry><title>About Us</title><id>https://gamedevhappyhour.com/our-team.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/our-team.html" /><published>2021-01-01T00:00:00-08:00</published><updated>2022-01-16T02:41:42-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
           
             &lt;h1 id=&quot;the-community-for-hong-kongs-gaming-industry&quot;&gt;The Community For Hong Kong’s Gaming Industry&lt;/h1&gt;
 &lt;p&gt;Welcome to Game Dev Happy Hour! We are a community of game developers here to foster and encourage game development in Hong Kong.&lt;/p&gt;
@@ -98,7 +120,7 @@
           
         
       
-        </content><summary>The Community For Hong Kong’s Gaming IndustryWelcome to Game Dev Happy Hour! We are a community of game developers here to foster and encourage game development in Hong Kong.</summary></entry><entry><title>Monthly+ Events</title><id>https://gamedevhappyhour.com/monthlyplus.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/monthlyplus.html" /><published>2021-01-01T00:00:00-08:00</published><updated>2022-01-16T02:18:51-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+        </content><summary>The Community For Hong Kong’s Gaming IndustryWelcome to Game Dev Happy Hour! We are a community of game developers here to foster and encourage game development in Hong Kong.</summary></entry><entry><title>Monthly+ Events</title><id>https://gamedevhappyhour.com/monthlyplus.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/monthlyplus.html" /><published>2021-01-01T00:00:00-08:00</published><updated>2022-01-16T02:41:42-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
           
             &lt;p&gt;Monthly+ Events act as specialised events at public and private venues where we focus on specific topics. These events range from university and school visits where presenters share their insight to emerging talent, to Demo Days and Game Jams.&lt;/p&gt;
 
@@ -108,7 +130,7 @@
           
         
       
-        </content><summary>Monthly+ Events act as specialised events at public and private venues where we focus on specific topics. These events range from university and school visits where presenters share their insight to emerging talent, to Demo Days and Game Jams.</summary></entry><entry><title>Monthly Events</title><id>https://gamedevhappyhour.com/monthly.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/monthly.html" /><published>2021-01-01T00:00:00-08:00</published><updated>2022-01-16T02:18:51-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+        </content><summary>Monthly+ Events act as specialised events at public and private venues where we focus on specific topics. These events range from university and school visits where presenters share their insight to emerging talent, to Demo Days and Game Jams.</summary></entry><entry><title>Monthly Events</title><id>https://gamedevhappyhour.com/monthly.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/monthly.html" /><published>2021-01-01T00:00:00-08:00</published><updated>2022-01-16T02:41:42-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
           
             &lt;p&gt;Talk shop with fellow local developers and learn something along the way with a short presentation from a member of the community. Always on the first Thursday of every month!&lt;/p&gt;
 
@@ -118,7 +140,7 @@
           
         
       
-        </content><summary>Talk shop with fellow local developers and learn something along the way with a short presentation from a member of the community. Always on the first Thursday of every month!</summary></entry><entry><title>Video Player Example</title><id>https://gamedevhappyhour.com/video.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/video.html" /><published>2021-01-01T00:00:00-08:00</published><updated>2022-01-16T02:18:51-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+        </content><summary>Talk shop with fellow local developers and learn something along the way with a short presentation from a member of the community. Always on the first Thursday of every month!</summary></entry><entry><title>Video Player Example</title><id>https://gamedevhappyhour.com/video.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/video.html" /><published>2021-01-01T00:00:00-08:00</published><updated>2022-01-16T02:41:42-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
           
             &lt;p&gt;Lorem lean startup ipsum &lt;strong&gt;product market fit customer development&lt;/strong&gt; acquihire technical cofounder.&lt;/p&gt;
 
@@ -130,7 +152,7 @@
           
         
       
-        </content><summary>Lorem lean startup ipsum product market fit customer development acquihire technical cofounder.</summary></entry><entry><title>Open Graph</title><id>https://gamedevhappyhour.com/open-graph.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/open-graph.html" /><published>2017-01-06T00:00:00-08:00</published><updated>2022-01-16T02:18:51-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+        </content><summary>Lorem lean startup ipsum product market fit customer development acquihire technical cofounder.</summary></entry><entry><title>Open Graph</title><id>https://gamedevhappyhour.com/open-graph.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/open-graph.html" /><published>2017-01-06T00:00:00-08:00</published><updated>2022-01-16T02:41:42-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
           
             &lt;p&gt;Theme Curtana has full Open Graph and Twitter Cards support.&lt;/p&gt;
 
@@ -153,7 +175,7 @@
           
         
       
-        </content><summary>Theme Curtana has full Open Graph and Twitter Cards support.</summary></entry><entry><title>Markdown Features Test</title><id>https://gamedevhappyhour.com/markdown-features-test.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/markdown-features-test.html" /><published>2014-06-06T00:00:00-07:00</published><updated>2022-01-16T02:18:51-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+        </content><summary>Theme Curtana has full Open Graph and Twitter Cards support.</summary></entry><entry><title>Markdown Features Test</title><id>https://gamedevhappyhour.com/markdown-features-test.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/markdown-features-test.html" /><published>2014-06-06T00:00:00-07:00</published><updated>2022-01-16T02:41:42-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
           
             &lt;h2 id=&quot;indented-code-blocks&quot;&gt;Indented Code Blocks&lt;/h2&gt;
 
@@ -288,7 +310,7 @@ end
           
         
       
-        </content><summary>Indented Code Blocks</summary></entry><entry><title>Markdown Features Test</title><id>https://gamedevhappyhour.com/markdown-features-test.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/markdown-features-test.html" /><published>2014-06-06T00:00:00-07:00</published><updated>2022-01-16T02:18:51-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+        </content><summary>Indented Code Blocks</summary></entry><entry><title>Markdown Features Test</title><id>https://gamedevhappyhour.com/markdown-features-test.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/markdown-features-test.html" /><published>2014-06-06T00:00:00-07:00</published><updated>2022-01-16T02:41:42-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
           
             &lt;h2 id=&quot;indented-code-blocks&quot;&gt;Indented Code Blocks&lt;/h2&gt;
 
@@ -423,7 +445,7 @@ end
           
         
       
-        </content><summary>Indented Code Blocks</summary></entry><entry><title>Markup Example</title><id>https://gamedevhappyhour.com/markup-example.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/markup-example.html" /><published>2014-06-05T00:00:00-07:00</published><updated>2022-01-16T02:18:51-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+        </content><summary>Indented Code Blocks</summary></entry><entry><title>Markup Example</title><id>https://gamedevhappyhour.com/markup-example.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/markup-example.html" /><published>2014-06-05T00:00:00-07:00</published><updated>2022-01-16T02:41:42-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
           
             &lt;p&gt;Lorem lean startup ipsum &lt;strong&gt;product market fit customer development&lt;/strong&gt; acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck. Social bookmarking group buying &lt;a href=&quot;#&quot;&gt;crowded market&lt;/a&gt; pivot onboarding freemium prototype ping pong. Early stage disruptive ecosystem community outreach dynamic location based strategic investor.&lt;/p&gt;
 
@@ -667,7 +689,7 @@ Careful Skippy, you really aren’t as convincing as you think you are.&lt;/p&gt
           
         
       
-        </content><summary>Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck. Social bookmarking group buying crowded market pivot onboarding freemium prototype ping pong. Early stage disruptive ecosystem community outreach dynamic location based strategic investor.</summary></entry><entry><title>Markup Example</title><id>https://gamedevhappyhour.com/markup-example.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/markup-example.html" /><published>2014-06-05T00:00:00-07:00</published><updated>2022-01-16T02:18:51-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
+        </content><summary>Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck. Social bookmarking group buying crowded market pivot onboarding freemium prototype ping pong. Early stage disruptive ecosystem community outreach dynamic location based strategic investor.</summary></entry><entry><title>Markup Example</title><id>https://gamedevhappyhour.com/markup-example.html</id><link rel="alternate" type="text/html" href="https://gamedevhappyhour.com/markup-example.html" /><published>2014-06-05T00:00:00-07:00</published><updated>2022-01-16T02:41:42-08:00</updated><author><name>Keiran Lovett</name><uri>https://keiranlovett.com/</uri><email>kvclovett@gmail.com</email></author><content type="html" xml:base="https://gamedevhappyhour.com/">
           
             &lt;p&gt;Lorem lean startup ipsum &lt;strong&gt;product market fit customer development&lt;/strong&gt; acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck. Social bookmarking group buying &lt;a href=&quot;#&quot;&gt;crowded market&lt;/a&gt; pivot onboarding freemium prototype ping pong. Early stage disruptive ecosystem community outreach dynamic location based strategic investor.&lt;/p&gt;
 
