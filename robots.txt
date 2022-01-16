@@ -1,0 +1,3 @@
+Sitemap: https://gamedevhappyhour.com/scaffold/sitemap.xml
+
+User-agent: *
