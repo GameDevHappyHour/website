@@ -1,4 +1,4 @@
-ame: RSS Feed to Markdown
+name: RSS Feed to Markdown
 
 on:
   push:
