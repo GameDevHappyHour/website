@@ -13,7 +13,7 @@ permalink:      /:title.html
 markdown:       kramdown
 highlighter:    rouge
 include:        ["_pages"]
-exclude:        ["_pages/themes"]
+exclude:        ["_pages/themes", "assets/template.md"]
 
 #
 # Jekyll serve settings
