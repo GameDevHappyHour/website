@@ -20,7 +20,7 @@ jobs:
           ruby-version: '3.0'
 
       - name: Run RSS Feed to Markdown Action
-        uses: keiranlovett/rss-to-video@main
+        uses: keiranlovett/RSS-Feed-to-Markdown@main
         with:
           feed_url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCuVczNc74_jsmgNlAhHbz-Q'
           template_file: 'template.md'
