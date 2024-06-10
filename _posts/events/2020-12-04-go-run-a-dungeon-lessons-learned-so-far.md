@@ -9,3 +9,5 @@ youtubeId: 6QnDhpLuXEw
 {% include _youtube.html id=page.youtubeId %}
 <br />
 There’s a first for everything! Yet sometimes the first step can be the hardest one to make. You study the books, learn the craft, but how do you get from there to developing your first game? Join us as Jeremy reflects on the on-going development of Games Hamoney's first commercial
+
+_By Game Dev Happy Hour HK_
