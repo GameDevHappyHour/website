@@ -9,3 +9,5 @@ youtubeId: [ID]
 {% include _youtube.html id=page.youtubeId %}
 <br />
 [DESCRIPTION]
+
+_By [AUTHOR]_
