@@ -20,7 +20,7 @@ jobs:
           node-version: '16'
 
       - name: Run RSS Feed to Markdown Action
-        uses: keiranlovett/rss-feed-to-markdown@v1.1.3
+        uses: keiranlovett/rss-feed-to-markdown@v1.1.5
         with:
           feed_url: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCuVczNc74_jsmgNlAhHbz-Q'
           template_file: 'assets/template.md'
