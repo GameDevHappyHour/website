@@ -31,12 +31,17 @@ jobs:
           output_dir: '_posts/events/'
           
       - name: Commit and push update
-        run: |-         
-         git config user.name github-actions
-         git config user.email github-actions@github.com
-         git add -A
-         git commit -m "Updated Youtube Video posts from GitHub Actions"
-         git push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A
+          # Check if there are changes to commit
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Updated Youtube Video posts from GitHub Actions"
+            git push
+          else
+            echo "No changes to commit"
+          fi
          
   jekyll:
     runs-on: ubuntu-latest #ubuntu-18.04 # ubuntu-latest is now 20.04 and doesn't seem to work
