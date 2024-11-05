@@ -21,7 +21,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '16'
+          node-version: '20'
 
       - name: Run RSS Feed to Markdown Action
         uses: keiranlovett/rss-feed-to-markdown@main
@@ -52,7 +52,7 @@ jobs:
       # setup node
       - uses: actions/setup-node@v2
         with:
-          node-version: 12
+          node-version: 20
 
       # Use ruby/setup-ruby to shorten build times
       # https://github.com/ruby/setup-ruby
